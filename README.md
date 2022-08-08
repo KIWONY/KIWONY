@@ -37,7 +37,7 @@
 <div align="center"> 
 
 **email** : <coderkw05@gmail.com>   
-**blog** : https://velog.io/@kiwony_
+**blog** : [velog](https://velog.io/@kiwony_)
 
 
 </div>
