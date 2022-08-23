@@ -15,7 +15,7 @@
 <div align="center"> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Django_REST_framework-ff1709?style=flat-square&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django_REST_Framework-ff1709?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>   
@@ -42,7 +42,6 @@
 
 **email** : <coderkw05@gmail.com>   
 **blog** : [velog](https://velog.io/@kiwony_)   
-<br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKIWONY%2Fhit-counter&count_bg=%2366A3CA&title_bg=%23A5ADB6&icon=&icon_color=%23CCCCCC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 </div>
