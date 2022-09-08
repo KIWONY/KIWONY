@@ -31,7 +31,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIWONY&show_icons=true&title_color=3F3351&icon_color=E9A6A6&text_color=864879&hide=stars,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIWONY&show_icons=true&count_private=true&title_color=3F3351&icon_color=E9A6A6&text_color=864879&hide=stars,issues)
 
 </div>
 
